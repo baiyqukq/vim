@@ -74,7 +74,7 @@ set shiftwidth=4
 set cindent 
 
 "Change color scheme
-colorscheme desert
+colorscheme jellybeans
 " Change background color
 set background=dark
 

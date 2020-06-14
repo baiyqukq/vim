@@ -13,3 +13,9 @@ Configure VIM to a simple, convenient and useful editor, but not for IDE
 * Effective
 
   One of reasons of using VIM is its effectice, so there are lots, but not list here
+
+## Plugins
+* Commenter -- NERD Commenter
+
+  I more like "<leader>c" Key map than "gc"
+
