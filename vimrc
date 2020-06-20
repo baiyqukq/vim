@@ -17,6 +17,9 @@
 " Use Vim settings, rather than Vi settings
 set nocompatible
 
+"Very hate vi backspace mode
+set backspace=indent,eol,start
+
 " Encodings
 set encoding=utf-8
 set termencoding=utf-8
