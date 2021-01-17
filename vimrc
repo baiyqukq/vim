@@ -77,7 +77,8 @@ set shiftwidth=4
 set cindent 
 
 "Change color scheme
-colorscheme jellybeans
+colorscheme vividchalk
+
 " Change background color
 set background=dark
 
